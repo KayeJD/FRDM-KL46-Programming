@@ -1,5 +1,6 @@
 # FRDM-KL46Z-Programming
 
+![image](https://github.com/KayeJD/FRDM-KL46Z-Programming/assets/139111295/5be178dd-96f1-4fb9-9ebd-d2201e01a7d4)
 A project folder featuring my projects involving programming a FRDM-KL46Z board using MCUXpresso. You can find the necessary files, configurations, and source code I used in developing these embedded systems applications in C. In each folder, you'll be able to find the **peripherals, setup, and description/overview** of each project.
 
 
