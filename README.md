@@ -1,8 +1,20 @@
 # FRDM-KL46Z-Programming
 
 ![image](https://github.com/KayeJD/FRDM-KL46Z-Programming/assets/139111295/5be178dd-96f1-4fb9-9ebd-d2201e01a7d4)
-A project folder featuring my projects involving programming a FRDM-KL46Z board using MCUXpresso. You can find the necessary files, configurations, and source code I used in developing these embedded systems applications in C. In each folder, you'll be able to find the **peripherals, setup, and description/overview** of each project.
 
+Welcome to the repository showcasing my practices with embedded programming using MCUXpresso on the FRDM KL46 development board. This repository demonstrates my proficiency in working with various peripherals and configuring functionalities such as PWM (Pulse Width Modulation), ADC (Analog to Digital Converter), TPM (Timer/Pulse Width Modulation), and more. You can find the necessary files, configurations, and source code I used in developing these embedded systems applications in C. In each folder, you'll be able to find the **peripherals, setup, and description/overview** of each project. The Schematics and Datasheets needed are provided as files
+
+### Skills learned so far...
+- PWM Configuration: Demonstrates how to configure and utilize PWM for controlling motors, LEDs, or other devices.
+- ADC Implementation: Shows the implementation of ADC for reading analog sensor data.
+- TPM Setup: Illustrates how to set up and utilize TPM for various timing and pulse-width modulation tasks.
+- Peripheral Integration: Examples integrating multiple peripherals to accomplish specific tasks or functionalities.
+
+## Usage
+1. Clone the repository to your local machine.
+2. Open the projects in MCUXpresso IDE or your preferred development environment.
+3. Explore the source files in the /src directory to understand the implementation details.
+4. Refer to documentation in the /docs folder for additional insights or explanations.
 
 ## MCUXpresso Clock Configurations
 Set the clock to these settings:
