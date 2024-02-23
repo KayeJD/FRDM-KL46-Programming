@@ -5,7 +5,7 @@ This project involves setting up the two onboard LED lights and flashing the LED
 the alternating LED light are to indicate when there is a new word. When the string i
 finished being iterated though, it simply flashes the message again. </br>
 
-Here is the [video](https://drive.google.com/file/d/1HgUsOvIcG5j8Gz1B7lVSTDrPluqY591O/view?usp=sharing)
+Here is a [video](https://drive.google.com/file/d/1HgUsOvIcG5j8Gz1B7lVSTDrPluqY591O/view?usp=sharing) of the behavior
 
 ## Implementation
 This code begins with setting up all of the ports and configuring them to start on OFF. We
