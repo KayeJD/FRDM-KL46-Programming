@@ -10,6 +10,12 @@ Welcome to the repository showcasing my practices with embedded programming usin
 - TPM Setup: Illustrates how to set up and utilize TPM for various timing and pulse-width modulation tasks.
 - Peripheral Integration: Examples integrating multiple peripherals to accomplish specific tasks or functionalities.
 
+## Reference Manuals and Datasheets
+1. [FRDMKL46 User's Manual](https://www.farnell.com/datasheets/1728679.pdf)
+2. [FRDMKL46 Reference Manual](https://home.agh.edu.pl/~ostrowsk/teksty/manual.pdf)
+3. [FRDMKL46 Schematic](https://www.openhacks.com/uploadsproductos/frdm-kl46z_sch.pdf)
+4. [TB6612FNG Motor Driver](https://www.sparkfun.com/datasheets/Robotics/TB6612FNG.pdf)
+
 ## Usage
 1. Clone the repository to your local machine.
 2. Open the projects in MCUXpresso IDE or your preferred development environment.
